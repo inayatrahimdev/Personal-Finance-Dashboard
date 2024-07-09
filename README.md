@@ -40,7 +40,7 @@ After running the above command, Streamlit will start a local web server and pro
 2. Visualize Data: View detailed visualizations of your spending habits.
 3. Analyze Trends: Understand your spending patterns over time.
    
-CSV File Format
+**CSV File Format:**
 Make sure your CSV file has the following columns for the app to work correctly:
 
 1. Date: The date of the transaction (format: dd/mm/yyyy).
