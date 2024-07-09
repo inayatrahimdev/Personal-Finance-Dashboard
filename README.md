@@ -1,6 +1,6 @@
 # Personal Finance Dashboard
 
-![Personal Finance Dashboard](images/dashboard_screenshot.png)
+![Personal Finance Dashboard](images/finance_dashboard.png)
 
 ## Overview
 
@@ -15,7 +15,7 @@ Welcome to the Personal Finance Dashboard! This project aims to help users manag
 
 ## Demo
 
-![Demo GIF](images/demo.gif)
+![Demo Video](finance_dashboard.mp4)
 
 ## Installation
 
