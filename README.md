@@ -15,7 +15,7 @@ Welcome to the Personal Finance Dashboard! This project aims to help users manag
 
 ## Demo
 
-![Demo gif](dashboard.gif)
+![Demo Video](dashboard.mp4)
 
 ## Installation
 
@@ -26,10 +26,9 @@ To run this project locally, follow these steps:
    git clone https://github.com/inayatrahimdev/Personal-Finance-Repository.git
    cd Personal-Finance-Repository
 Install the required libraries:
-  ```bash
-cd pip install streamlit pandas matplotlib seaborn.
+   cd pip install streamlit pandas matplotlib seaborn.
 Run the Streamlit app:
-cd streamlit run finance_dashboard.py.
+   cd streamlit run finance_dashboard.py.
 
 Open the app in your browser:
 After running the above command, Streamlit will start a local web server and provide you with a URL (usually http://localhost:8501). Open this URL in your web browser to see your Personal Finance Dashboard in action.
