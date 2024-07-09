@@ -27,7 +27,6 @@ To run this project locally, follow these steps:
    cd Personal-Finance-Repository
 Install the required libraries:
 
-
 pip install streamlit pandas matplotlib seaborn
 Run the Streamlit app:
 
@@ -35,36 +34,27 @@ streamlit run finance_dashboard.py
 Open the app in your browser:
 After running the above command, Streamlit will start a local web server and provide you with a URL (usually http://localhost:8501). Open this URL in your web browser to see your Personal Finance Dashboard in action.
 
-Usage
-Upload CSV File: Upload your expense data in CSV format.
-Visualize Data: View detailed visualizations of your spending habits.
-Analyze Trends: Understand your spending patterns over time.
+# Usage
+1. Upload CSV File: Upload your expense data in CSV format.
+2. Visualize Data: View detailed visualizations of your spending habits.
+3. Analyze Trends: Understand your spending patterns over time.
+   
 CSV File Format
 Make sure your CSV file has the following columns for the app to work correctly:
 
-• Date: The date of the transaction (format: dd/mm/yyyy).
-• Amount: The amount spent.
-• Category: The category of the expense (e.g., Food, Rent, Entertainment).
-Contributing
+1. Date: The date of the transaction (format: dd/mm/yyyy).
+2. Amount: The amount spent.
+3. Category: The category of the expense (e.g., Food, Rent, Entertainment).
+
+# Contributing
 We welcome contributions! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
-Fork the repository
-Create your feature branch:
-git checkout -b feature/YourFeature
-Commit your changes:
-git commit -m 'Add some feature'
-Push to the branch:
-git push origin feature/YourFeature
-Create a new Pull Request
-License
+
+# License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+# Contact
 For any questions or suggestions, feel free to contact me:
 
 • Email: inayatrahim006@gmail.com
 Thank you for visiting the Personal Finance Dashboard repository! If you found this project useful, please consider giving it a star ⭐️.
-
-
-Thank you for visiting the Personal Finance Dashboard repository! If you found this project useful, please consider giving it a star ⭐️.
-
