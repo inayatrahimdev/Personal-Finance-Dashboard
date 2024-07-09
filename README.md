@@ -1,6 +1,6 @@
 # Personal Finance Dashboard
 
-![Personal Finance Dashboard](images/dashboard_screenshot.png)
+![Personal Finance Dashboard](images/finance_dashboard.png)
 
 ## Overview
 
