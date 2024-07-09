@@ -26,6 +26,7 @@ To run this project locally, follow these steps:
    git clone https://github.com/inayatrahimdev/Personal-Finance-Repository.git
    cd Personal-Finance-Repository
 Install the required libraries:
+   ```bash
    cd pip install streamlit pandas matplotlib seaborn.
 Run the Streamlit app:
    cd streamlit run finance_dashboard.py.
