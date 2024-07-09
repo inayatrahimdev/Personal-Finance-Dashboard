@@ -1,5 +1,4 @@
 # Personal Finance Dashboard
-<<<<<<< HEAD
 
 ![Personal Finance Dashboard](images/finance_dashboard.png)
 
