@@ -40,9 +40,9 @@ After running the above command, Streamlit will start a local web server and pro
 # CSV File Format
 Make sure your CSV file has the following columns for the app to work correctly:
 
-•'Date': The date of the transaction (format: dd/mm/yyyy).
-•'Amount': The amount spent.
-•'Category': The category of the expense (e.g., Food, Rent, Entertainment).
+1. 'Date': The date of the transaction (format: dd/mm/yyyy).
+2. 'Amount': The amount spent.
+3. 'Category': The category of the expense (e.g., Food, Rent, Entertainment).
 
 # Contributing
 We welcome contributions! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
@@ -53,11 +53,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 # Contact
 For any questions or suggestions, feel free to contact me:
 
-•Name: Inayat Rahim
-•Email: inayatrahim006@gmail.com
-•LinkedIn: Inayat Rahim
+Name: Inayat Rahim
+Email: inayatrahim006@gmail.com
+LinkedIn: Inayat Rahim
 
 Thank you for visiting the Personal Finance Dashboard repository! If you found this project useful, please consider giving it a star ⭐️.
-
-Fork the repository
    
