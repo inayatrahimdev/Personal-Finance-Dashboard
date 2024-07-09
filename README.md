@@ -15,7 +15,7 @@ Welcome to the Personal Finance Dashboard! This project aims to help users manag
 
 ## Demo
 
-![Demo Video](finance_dashboard.mp4)
+![Demo gif](dashboard.gif)
 
 ## Installation
 
