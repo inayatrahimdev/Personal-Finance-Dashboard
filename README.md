@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
    git clone https://github.com/inayatrahimdev/Personal-Finance-Repository.git
    cd Personal-Finance-Repository
 Install the required libraries:
-
+  ```bash
 pip install streamlit pandas matplotlib seaborn
 Run the Streamlit app:
 
@@ -49,12 +49,11 @@ Make sure your CSV file has the following columns for the app to work correctly:
 # Contributing
 We welcome contributions! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
-
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 # Contact
 For any questions or suggestions, feel free to contact me:
 
-• Email: inayatrahim006@gmail.com
+Email: inayatrahim006@gmail.com.
 Thank you for visiting the Personal Finance Dashboard repository! If you found this project useful, please consider giving it a star ⭐️.
