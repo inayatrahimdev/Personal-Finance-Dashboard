@@ -62,7 +62,14 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contact
 For any questions or suggestions, feel free to contact me:
 
+<<<<<<< HEAD
 • Name: Inayat Rahim
 • Email: inayatrahim006@gmail.com
 • LinkedIn: Inayat Rahim
 Thank you for visiting the Personal Finance Dashboard repository! If you found this project useful, please consider giving it a star ⭐️.
+=======
+# Email: inayatrahim006@gmail.com
+
+Thank you for visiting the Personal Finance Dashboard repository! If you found this project useful, please consider giving it a star ⭐️.
+   
+>>>>>>> cfd75e40048adaffb6224f646ad2ec1aad7d1b99
