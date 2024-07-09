@@ -56,5 +56,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 # Contact
 For any questions or suggestions, feel free to contact me:
 
-Email: inayatrahim006@gmail.com.
+**Email: inayatrahim006@gmail.com**
+
 Thank you for visiting the Personal Finance Dashboard repository! If you found this project useful, please consider giving it a star ⭐️.
