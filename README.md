@@ -1,4 +1,5 @@
 # Personal Finance Dashboard
+<<<<<<< HEAD
 
 ![Personal Finance Dashboard](images/finance_dashboard.png)
 
@@ -73,3 +74,5 @@ Thank you for visiting the Personal Finance Dashboard repository! If you found t
 Thank you for visiting the Personal Finance Dashboard repository! If you found this project useful, please consider giving it a star ⭐️.
    
 >>>>>>> cfd75e40048adaffb6224f646ad2ec1aad7d1b99
+=======
+>>>>>>> 3b28500ecea487b163e5f772c309ab36de561c74
